@@ -5,7 +5,7 @@ This repository contains an automated simulation project designed for an Arduino
 ## ⚡ Live Simulation
 You can run and test this project directly in your browser without any hardware.
 
-👉 [Launch Live Simulation on Wokwi](https://wokwi.com/projects/new/arduino-uno)
+👉 [Launch Live Simulation on Wokwi](https://wokwi.com/projects/467145759797836801)
 
 ## 🛠️ Project Components
 * **`sketch.ino`**: The main code controlling the logic, reading the analog input, and transmitting the data via serial communication.

@@ -1,4 +1,4 @@
-# 🚀 Arduino Wokwi Simulation Project - Potentiometer using Arduino
+# 🤖Arduino Wokwi Simulation Project - Potentiometer using Arduino🎚️
 
 This repository contains an automated simulation project designed for an Arduino platform using Wokwi to read and display analog sensor data.
 
